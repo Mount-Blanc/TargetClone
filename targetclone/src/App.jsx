@@ -6,7 +6,9 @@ function App() {
   return (
     <>
       <header>
+        <div className='header-container'>
         <div>
+          <p>logo</p>
           <ul>
             <li>
               <a href=''>Categories</a>
@@ -25,6 +27,7 @@ function App() {
         </form>
         <div>
           <p>Sign in</p>
+        </div>
         </div>
       </header>
     </>

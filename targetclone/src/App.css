@@ -1,1 +1,19 @@
 
+ul, a {
+    display: flex;
+    list-style: none;
+    text-decoration: none;
+    color:black;
+}
+a {
+    font-weight: bold;
+}
+li {
+    margin-inline:25px;
+}
+.header-container {
+    display: flex;
+}
+input {
+    padding: 9px;
+}
