@@ -14,7 +14,18 @@ li {
 .header-container {
     display: flex;
     margin:14px;
+    align-items: center;
 }
 input {
     padding: 9px;
+    width: 100%;
+    border:none;
+    color:rgb(62, 61, 61);
+    background-color: rgb(237, 237, 237);
+    border-radius: 5px;
+    height:23px
+}
+form {
+    display: flex;
+    flex:1 1 auto;
 }
