@@ -12,18 +12,18 @@ function App() {
             <span>City</span>
 
           </div>
-          <ul>
-            <li>
-              <a href=''>Registry</a>
+          <ul >
+            <li >
+              <a className='utility-list' href=''>Registry</a>
             </li>
             <li>
-              <a href=''>Weekly Ad</a>
+              <a className='utility-list' href=''>Weekly Ad</a>
             </li> <li>
-              <a href=''>RedCard</a>
+              <a className='utility-list' href=''>RedCard</a>
             </li> <li>
-              <a href=''>Target Circle</a>
+              <a className='utility-list' href=''>Target Circle</a>
             </li> <li>
-              <a href=''>Find Stores</a>
+              <a className='utility-list' href=''>Find Stores</a>
             </li>
           </ul>
         </div>

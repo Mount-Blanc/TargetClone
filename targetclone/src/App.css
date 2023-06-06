@@ -7,7 +7,11 @@ ul, a {
     display: flex;
     list-style: none;
     text-decoration: none;
-    color:black;
+     color:black;
+
+}
+.link {
+
 }
 a {
     font-weight: bold;
@@ -36,4 +40,9 @@ form {
 .utility-header-wrapper {
     background-color: rgb(204, 0, 0);
     height:50px;
+    display: flex;
+    justify-content: space-between;
+}
+.utility-list {
+    color: white;
 }
