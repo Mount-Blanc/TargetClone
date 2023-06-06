@@ -48,8 +48,9 @@ function App() {
         <form>
           <input placeholder='What can we help you find?'/>
         </form>
-        <div>
-          <p>Sign in</p>
+        <div className='nav-right'>
+          <span>Sign in</span>
+          <span>Cart</span>
         </div>
         </div>
       </header>

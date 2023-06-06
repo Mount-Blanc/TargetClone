@@ -58,3 +58,7 @@ color: white;
 .nav-left {
     display: flex;
 }
+.nav-right {
+    display: flex;
+    margin-inline:5rem;
+}
