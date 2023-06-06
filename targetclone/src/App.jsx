@@ -54,6 +54,7 @@ function App() {
         </div>
         </div>
       </header>
+      <footer>footer</footer>
     </>
   )
 }

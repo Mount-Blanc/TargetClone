@@ -62,3 +62,8 @@ color: white;
     display: flex;
     margin-inline:5rem;
 }
+footer {
+    background-color: rgb(247, 247, 247);
+    height: 300px;
+   
+}
