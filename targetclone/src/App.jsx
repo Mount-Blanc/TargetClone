@@ -7,7 +7,8 @@ function App() {
     <>
       <header>
         <div className='utility-header-wrapper'>
-          <div>
+          <div className='utility-header-container' >
+          <div className='user-info'>
             <span>nnnnn</span>
             <span>City</span>
 
@@ -26,6 +27,7 @@ function App() {
               <a className='utility-list' href=''>Find Stores</a>
             </li>
           </ul>
+        </div>
         </div>
         <div className='header-container'>
         <div>

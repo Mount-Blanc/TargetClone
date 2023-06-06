@@ -10,9 +10,7 @@ ul, a {
      color:black;
 
 }
-.link {
 
-}
 a {
     font-weight: bold;
 }
@@ -39,10 +37,21 @@ form {
 }
 .utility-header-wrapper {
     background-color: rgb(204, 0, 0);
-    height:50px;
+        height:50px;
+
+}
+.utility-header-container {
     display: flex;
     justify-content: space-between;
+    margin-inline: 1.5rem;
+
 }
 .utility-list {
     color: white;
+}
+
+.user-info {
+display: flex;
+align-items: center;
+color: white;
 }
