@@ -61,6 +61,10 @@ function App() {
           <div className='hero-products'>
             <div>Gift him the best</div>
             <ProductCard/>
+            <ProductCard/>
+            <ProductCard/>
+            <ProductCard/>
+
           </div>
           <div className='image-products'>
             <div>
