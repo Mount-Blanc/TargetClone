@@ -1,6 +1,6 @@
 
 import './App.css'
-
+import sloth from './sloth.jpg';
 function App() {
 
   return (
@@ -54,6 +54,24 @@ function App() {
         </div>
         </div>
       </header>
+      <section>
+        <div>
+          <div></div>
+          <div></div>
+          <div className='image-products'>
+            <div>
+              <img src={sloth}></img>
+            </div>
+            <div>
+              <img src={sloth}></img>
+            </div><div>
+              <img src={sloth}></img>
+            </div><div>
+              <img src={sloth}></img>
+            </div>
+          </div>
+        </div>
+      </section>
       <footer>footer</footer>
     </>
   )
