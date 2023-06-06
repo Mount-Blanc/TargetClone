@@ -67,6 +67,10 @@ footer {
     height: 300px;
    
 }
+.hero-grid {
+    grid-template-rows: repeat(3,1fr);
+}
+
 .image-products {
     display: flex;
 }
@@ -74,4 +78,7 @@ footer {
     width:100px;
     height: auto;
     padding: 1rem;
+}
+.hero-products {
+    display: flex;
 }

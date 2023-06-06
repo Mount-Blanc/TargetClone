@@ -1,5 +1,6 @@
 
 import './App.css'
+import ProductCard from './ProductCard';
 import sloth from './sloth.jpg';
 function App() {
 
@@ -55,9 +56,12 @@ function App() {
         </div>
       </header>
       <section>
-        <div>
+        <div className='hero-grid'>
           <div></div>
-          <div></div>
+          <div className='hero-products'>
+            <div>Gift him the best</div>
+            <ProductCard/>
+          </div>
           <div className='image-products'>
             <div>
               <img src={sloth}></img>
