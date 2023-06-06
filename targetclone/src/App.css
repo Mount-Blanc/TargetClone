@@ -1,4 +1,8 @@
 
+body {
+    margin:0;
+}
+
 ul, a {
     display: flex;
     list-style: none;
