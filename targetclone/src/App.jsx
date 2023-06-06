@@ -30,7 +30,7 @@ function App() {
         </div>
         </div>
         <div className='header-container'>
-        <div>
+        <div className='nav-left'>
           <p>logo</p>
           <ul>
             <li>
