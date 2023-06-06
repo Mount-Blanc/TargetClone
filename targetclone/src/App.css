@@ -29,3 +29,7 @@ form {
     display: flex;
     flex:1 1 auto;
 }
+.utility-header-wrapper {
+    background-color: rgb(204, 0, 0);
+    height:50px;
+}
