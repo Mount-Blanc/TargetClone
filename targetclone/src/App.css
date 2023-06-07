@@ -85,12 +85,12 @@ footer {
 
 .storycard-grid {
     display: grid;
-    grid-template-columns: auto auto auto; /* Three equal-width columns */
+    grid-template-columns: 200px 200px 200px; /* Three equal-width columns */
     grid-template-rows: auto auto; /* Two rows with auto height */
   
 }
 .middle {
-    grid-row: span 2; /* Span two rows */ 
+    grid-row: span 2;
 }
 .middle img {
     height:100%;    
