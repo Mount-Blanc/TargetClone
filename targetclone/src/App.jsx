@@ -57,7 +57,31 @@ function App() {
       </header>
       <section>
         <div className='hero-grid'>
-          <div></div>
+          <div className='storycard-grid'>
+            <div>
+          <div >
+              <img src={sloth}></img>
+            </div>
+            <div>
+              <img src={sloth}></img>
+            </div>
+</div>
+
+
+            <div className='middle'>
+              <img src={sloth}></img>
+            </div>
+
+            <div >
+            <div>
+              <img src={sloth}></img>
+            </div>
+            <div>
+              <img src={sloth}></img>
+            </div>
+            
+            </div>
+          </div>
           <div className='hero-products'>
             <div>Gift him the best</div>
             <ProductCard/>
