@@ -69,6 +69,7 @@ footer {
 }
 .hero-grid {
     grid-template-rows: repeat(3,1fr);
+    
 }
 
 .image-products {
@@ -95,5 +96,3 @@ footer {
 .middle img {
     height:100%;    
 }
-
-

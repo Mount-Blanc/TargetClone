@@ -57,6 +57,7 @@ function App() {
       </header>
       <section>
         <div className='hero-grid'>
+          <div className='hero-container'>
           <div className='storycard-grid'>
             <div>
           <div >
@@ -94,13 +95,18 @@ function App() {
             <div>
               <img src={sloth}></img>
             </div>
+            
+
+
             <div>
               <img src={sloth}></img>
             </div><div>
               <img src={sloth}></img>
             </div><div>
               <img src={sloth}></img>
-            </div>
+            </div>  
+             </div>
+
           </div>
         </div>
       </section>
