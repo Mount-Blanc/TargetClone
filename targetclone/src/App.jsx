@@ -110,6 +110,21 @@ function App() {
           </div>
         </div>
       </section>
+      <section>
+        <h2>Ready for sun</h2>
+      </section>
+      <section>
+        <h2>New & trending finds</h2>
+      </section>
+      <section>
+        <h2>Save on, saver</h2>
+      </section>
+      <section>
+        <h2>Create your registry</h2>
+      </section>
+      <section>
+        <h2>Featured categories</h2>
+      </section>
       <footer>footer</footer>
     </>
   )
