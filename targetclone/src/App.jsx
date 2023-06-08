@@ -68,6 +68,8 @@ function App() {
         </div>
       </header>
 
+    <div className="main-section">
+
       <section>
         <div className="hero-grid">
           <div className="hero-container">
@@ -201,6 +203,8 @@ function App() {
       <section>
         <h2>Featured categories</h2>
       </section>
+      
+      </div>
       <footer>footer</footer>
     </>
   );

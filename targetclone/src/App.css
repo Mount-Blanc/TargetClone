@@ -109,3 +109,9 @@ footer {
 .saver-container {
     display: flex;
 }
+.main-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
