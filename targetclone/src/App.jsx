@@ -203,6 +203,11 @@ function App() {
       <section>
         <h2>Featured categories</h2>
       </section>
+      <div>      
+          <h3>Our Corporate Commitments</h3>
+          <img src={sloth}></img>
+           <img src={sloth}></img>
+            </div>  
       
       </div>
       <footer>footer</footer>
