@@ -115,3 +115,6 @@ footer {
     justify-content: center;
     align-items: center;
 }
+.commitments-container {
+    background-color: rgb(247, 247, 247);
+}
