@@ -112,6 +112,29 @@ function App() {
       </section>
       <section>
         <h2>Ready for sun</h2>
+<div className='sun-container'>
+
+        <div>
+              <img src={sloth}></img>
+              <h3>women's swim</h3>
+            </div>  
+            <div>
+              <img src={sloth}></img>
+              <h3>women's dresses</h3>
+
+            </div>  
+            <div>
+              <img src={sloth}></img>
+              <h3>kids' summer styles</h3>
+
+            </div>  
+            <div>
+              <img src={sloth}></img>
+              <h3>summer accessories</h3>
+
+            </div> 
+            
+             </div>
       </section>
       <section>
         <h2>New & trending finds</h2>

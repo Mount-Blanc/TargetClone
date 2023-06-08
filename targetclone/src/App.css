@@ -96,3 +96,7 @@ footer {
 .middle img {
     height:100%;    
 }
+
+.sun-container {
+    display: flex;
+}
