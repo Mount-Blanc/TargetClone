@@ -138,6 +138,22 @@ function App() {
       </section>
       <section>
         <h2>New & trending finds</h2>
+<div className='new-container'>
+
+        <div>
+              <img src={sloth}></img>
+              <h3>Viral hits</h3>
+            </div>  
+            <div>
+              <img src={sloth}></img>
+              <h3>June must haves</h3>
+            </div>  
+            <div>
+              <img src={sloth}></img>
+              <h3>Find something new</h3>
+            </div> 
+            
+             </div>
       </section>
       <section>
         <h2>Save on, saver</h2>
