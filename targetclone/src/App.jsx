@@ -162,6 +162,26 @@ function App() {
 
       <section>
         <h2>Save on, saver</h2>
+
+        <div className="saver-container">
+
+        <div>
+              <img src={sloth}></img>
+              <h3>Deal</h3>
+            </div>  
+            <div>
+              <img src={sloth}></img>
+              <h3>Deal</h3>
+            </div>  
+            <div>
+              <img src={sloth}></img>
+              <h3>Deal</h3>
+            </div>  
+            <div>
+              <img src={sloth}></img>
+              <h3>Deal</h3>
+            </div>  
+            </div>
       </section>
 
       <section>
@@ -177,7 +197,7 @@ function App() {
           </div>
         </div>
       </section>
-      
+
       <section>
         <h2>Featured categories</h2>
       </section>
