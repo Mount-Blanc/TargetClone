@@ -160,6 +160,17 @@ function App() {
       </section>
       <section>
         <h2>Create your registry</h2>
+<div className='registry-container'>
+
+        <div>
+              <img src={sloth}></img>
+              <h3>Wedding registry</h3>
+            </div>  
+            <div>
+              <img src={sloth}></img>
+              <h3>Baby registry</h3>
+            </div>
+              </div>
       </section>
       <section>
         <h2>Featured categories</h2>
